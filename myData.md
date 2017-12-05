@@ -1,0 +1,6 @@
+# myInfo
+name: Yash Jipkate
+email: yashkumar.jipkate.mec17@itbhu.ac.in
+phone: 9695578684
+branch: mec
+gender: male
